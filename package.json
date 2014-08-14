@@ -1,0 +1,14 @@
+{
+    "name": "wovies",
+    "version": "0.0.1",
+    "repository": "lfjero/wovies",
+    "description": "application",
+    "dependencies": {
+        "koa": "*"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
+    "license": "MIT"
+}
